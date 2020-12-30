@@ -12,15 +12,15 @@ export default function Header() {
         <div className="flex items-center">
           <Image
             src="/ionutfrancisc-logo.svg"
-            width={40}
+            width={80}
             height={40}
             priority
             alt="Ionut Francisc logo"
           />
 
           <Link href="/">
-            <a className="text-lg md:text-xl font-regular ml-3 text-white">
-              Ionuț Francisc > Web developer
+            <a className="text-lg md:text-xl font-bold ml-3 text-white">
+              Ionuț Francisc > Web dev
             </a>
           </Link>
         </div>
