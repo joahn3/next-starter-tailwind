@@ -4,8 +4,8 @@ export default function IndexPage() {
   return (
     <div className="flex flex-col items-center justify-center space-y-12">
       <Image
-        src="/team-of-critters.svg"
-        alt="Four one-eyed aliens playing"
+        src="/hero-developer_activity.svg"
+        alt="Hero-Developer"
         width={576}
         height={429.734}
         priority

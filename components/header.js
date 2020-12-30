@@ -7,20 +7,20 @@ export default function Header() {
   const [mobileMenuIsOpen, setMobileMenuIsOpen] = useState(false);
 
   return (
-    <header className="bg-green-600">
+    <header className="bg-blue-600">
       <div className="flex flex-wrap items-center justify-between lg:container px-4 py-6 mx-auto md:flex-no-wrap md:px-6">
         <div className="flex items-center">
           <Image
-            src="/tailwind-logo.svg"
+            src="/ionutfrancisc-logo.svg"
             width={40}
             height={40}
             priority
-            alt="Tailwind CSS logo"
+            alt="Ionut Francisc logo"
           />
 
           <Link href="/">
-            <a className="text-lg md:text-xl font-bold ml-3 text-white">
-              Ionuț Francisc - Web developer
+            <a className="text-lg md:text-xl font-regular ml-3 text-white">
+              Ionuț Francisc > Web developer
             </a>
           </Link>
         </div>
