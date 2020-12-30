@@ -12,7 +12,7 @@ export default function IndexPage() {
       />
 
       <h2 className="p-3 font-bold bg-yellow-300 md:text-2xl">
-        Hi! Welcome to your first Next.js site.
+        Hi! Welcome to my Developer Portofolio website.
       </h2>
     </div>
   );

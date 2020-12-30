@@ -5,18 +5,18 @@ export default function Footer() {
         <li>
           Created by{" "}
           <a
-            href="https://taylorbrynat.dev"
+            href="https://ionutfrancisc.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="font-bold"
           >
-            Taylor Bryant
+            Ionuț Francisc
           </a>
         </li>
 
         <li>
           <a
-            href="https://github.com/oddstronaut/next-starter-tailwind"
+            href="https://github.com/joahn3"
             target="_blank"
             rel="noopener noreferrer"
             className="font-bold"
