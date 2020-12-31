@@ -8,7 +8,7 @@ export default function Footer() {
             href="https://ionutfrancisc.dev"
             target="_blank"
             rel="noopener noreferrer"
-            className="font-bold"
+            className="font-normal"
           >
             Ionuț Francisc |
           </a>
