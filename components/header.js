@@ -19,7 +19,7 @@ export default function Header() {
           />
 
           <Link href="/">
-            <a className="text-lg md:text-xl font-bold ml-3 text-white">
+            <a className="container mx-auto text md:text font-bold ml-3 text-white">
               Ionuț Francisc > Web dev
             </a>
           </Link>
