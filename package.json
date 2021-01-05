@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "webhint": "hint http://localhost:8080"
   },
   "repository": {
     "type": "git",
@@ -28,11 +29,13 @@
   "devDependencies": {
     "autoprefixer": "10.1.0",
     "classnames": "2.2.6",
+    "hint": "^6.1.1",
     "postcss": "8.2.1",
     "postcss-100vh-fix": "1.0.2",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-hover-media-feature": "1.0.0",
     "postcss-preset-env": "6.7.0",
+    "prettier": "^2.2.1",
     "tailwindcss": "2.0.2"
   }
 }
